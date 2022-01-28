@@ -1,0 +1,9 @@
+<suite name="regression">
+	<test name="parallelRegression">
+		<classes>
+			<class name="test.AmazonSearchTests" />
+			<class name="test.AmazonSearchWithExcel" />
+			<class name="test.SauseDemoLoginTest.java" />
+		</classes>
+	</test>
+</suite>
